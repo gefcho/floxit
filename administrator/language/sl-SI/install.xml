@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.8" client="administrator" type="language" method="upgrade">
+	<name>Slovenian (sl-SI)</name>
+	<tag>sl-SI</tag>
+	<version>3.8.13</version>
+	<creationDate>Oktober 2018</creationDate>
+	<author>Slovenian Translation Team</author>
+	<authorEmail>prevodi@joomla.si</authorEmail>
+	<authorUrl>www.joomla.si</authorUrl>
+	<copyright>Copyright (C) 2005 - 2018 Open Source Matters. Vse pravice pridržane.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description>sl-SI jezik skrbništva</description>
+	<files>
+		<folder>/</folder>
+		<filename file="meta">install.xml</filename>
+	</files>
+	<params />
+</extension>

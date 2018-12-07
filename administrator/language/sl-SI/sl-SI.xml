@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metafile version="3.8" client="administrator">
+	<name>Slovenian (sl-SI)</name>
+	<version>3.8.13</version>
+	<creationDate>Oktober 2018</creationDate>
+	<author>Slovenian Translation Team</author>
+	<authorEmail>prevodi@joomla.si</authorEmail>
+	<authorUrl>www.joomla.si</authorUrl>
+	<copyright>Copyright (C) 2005 - 2018 Open Source Matters. Vse pravice pridržane.</copyright>
+	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
+	<description><![CDATA[sl-SI jezik skrbništva]]></description>
+	<metadata>
+		<name>Slovenščina (sl-SI)</name>
+		<nativeName>Slovenščina (Slovenia)</nativeName>
+		<tag>sl-SI</tag>
+		<rtl>0</rtl>
+		<locale>sl_SI.utf8, sl_SI.UTF-8, sl_SI, slo_SI, si, sl, SI, slovenia, slovenian, Slovenia</locale>
+		<firstDay>0</firstDay>
+		<weekEnd>0,6</weekEnd>
+		<calendar>gregorian</calendar>
+	</metadata>
+	<params />
+</metafile>

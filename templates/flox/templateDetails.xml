@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 2.5//DTD template 1.0//EN" "https://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="3.0" type="template" client="site">
+    <name>flox</name>
+    <creationDate>18 Sep 2018</creationDate>
+    <author>Yan Chubarev</author>
+    <authorEmail>yan.chubarev@w-i.by</authorEmail>
+    <authorUrl>https://webinsight.by</authorUrl>
+    <copyright>Copyright (C) 2018 Webinsight</copyright>
+    <license></license>
+    <version>1.0.0</version>
+    <description>Template flox</description>
+    <files>
+        <folder>css</folder>
+        <folder>js</folder>
+        <filename>favicon.ico</filename>
+        <filename>index.php</filename>
+        <filename>template_preview.png</filename>
+        <filename>template_thumbnail.png</filename>
+        <filename>templateDetails.xml</filename>
+    </files>
+    <positions>
+        <position>header-menu-left</position>
+        <position>header-menu</position>
+        <position>header-menu-right</position>
+        <position>header-right-language</position>
+        <position>fl-banner</position>
+        <position>fl-banner-charge</position>
+        <position>fl-banner-help</position>
+        <position>fl-banner-how</position>
+        <position>fl-help</position>
+        <position>fl-faq</position>
+        
+        <position>fl-about-us</position>
+        <position>fl-how-it-works</position>
+        <position>fl-how-it-works-charge</position>
+        <position>fl-how-it-works-second</position>
+        <position>fl-got-qestions</position>
+        <position>fl-safety</position>
+        <position>fl-location</position>
+        <position>fl-contact</position>
+        <position>fl-footer</position>
+    </positions>
+</extension>

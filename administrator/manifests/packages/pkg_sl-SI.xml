@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="3.8" method="upgrade">
+	<name>Slovenian (sl-SI) Jezikovni paket</name>
+	<packagename>sl-SI</packagename>
+	<version>3.8.13.1</version>
+	<creationDate>Oktober 2018</creationDate>
+	<author>Slovenian Translation Team</author>
+	<authorEmail>prevodi@joomla.si</authorEmail>
+	<authorUrl>www.joomla.si</authorUrl>
+	<copyright>Copyright (C) 2005 - 2018 Open Source Matters, Inc. All rights reserved.</copyright>
+	<license>https://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<url>https://github.com/joomla/joomla-cms</url>
+	<packager>Joomla! Project</packager>
+	<packagerurl>www.joomla.org</packagerurl>
+	<description><![CDATA[<div class="alert alert-info left" style="text-align: left;">
+			<p><strong>Jezikovne datoteke za:</strong> Joomla! 3.8.13</p>
+			<p><strong>Jezik:</strong> Slovenščina</p>
+			<p><strong>Območje:</strong> Administrator - Skrbnik (ozadje) in Site - Stran (ospredje)</p>
+			<p><strong>Autor:</strong> Slovenian Translation Team <a href="https://www.joomla.si" target="_blank">Slovenska Joomla skupnost</a></p>
+			<p><strong>V Sloveniji deluje Nova slovenska Joomla! skupnost, obiščite našo stran in sodelujte pri širjenju Joomla! CMS v Sloveniji</strong></p>
+			<p><strong>Različica prevoda:</strong> 3.8.13.1 </p></div>]]></description>
+	<blockChildUninstall>true</blockChildUninstall>
+	<files>
+		<folder type="language" client="site" id="sl-SI">site_sl-SI</folder>
+		<folder type="language" client="administrator" id="sl-SI">admin_sl-SI</folder>
+	</files>
+	<updateservers>
+		<server type="collection" priority="1" name="Accredited Joomla! Translations">
+			https://update.joomla.org/language/translationlist_3.xml
+		</server>
+	</updateservers>
+</extension>
